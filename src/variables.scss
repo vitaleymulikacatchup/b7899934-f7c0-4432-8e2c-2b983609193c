@@ -1,0 +1,50 @@
+/* ============================================ */
+/* CSS/SCSS Variables Extracted from Source */
+/* Auto-generated from website cloning */
+/* ============================================ */
+
+/* CSS Custom Properties (use with var(--name)) */
+:root {
+  --swiper-theme-color: #007aff;
+  --swiper-navigation-size: 44px;
+  --swiper-preloader-color: #fff;
+}
+
+/* ============================================ */
+/* Color Variables */
+/* ============================================ */
+:root {
+  --swiper-theme-color: #007aff;
+  --swiper-preloader-color: #fff;
+}
+
+/* ============================================ */
+/* Spacing Variables */
+/* ============================================ */
+:root {
+  --swiper-navigation-size: 44px;
+}
+
+/* ============================================ */
+/* Other Variables */
+/* ============================================ */
+:root {
+  --circled: before;
+  --p1: black; // Updated to a valid CSS color
+  --pink: #ed228b; // Updated to a valid color
+  --light: before; 
+  --large: before;
+}
+
+/* ============================================ */
+/* Usage Guide */
+/* ============================================ */
+
+/* CSS Custom Properties (--var-name) */
+/* Use: color: var(--primary-color); */
+
+/* SCSS Variables ($var-name) */
+/* Use: color: $primary-color; */
+
+/* You can also use these in your Tailwind config */
+/* by importing this file or referencing the values */
